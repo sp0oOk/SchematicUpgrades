@@ -1,0 +1,6 @@
+name: SchematicsUpgrades
+version: '${project.version}'
+main: com.github.spook.schematics.SchematicsPlugin
+api-version: 1.8.8
+depend: [MassiveCore]
+authors: [ spook ]
